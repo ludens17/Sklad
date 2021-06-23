@@ -74,6 +74,8 @@
             <TextBlock 
                 Text="Администрирование"/>
         </Button>
+        
+        
     </Grid>
 
 </Window>
